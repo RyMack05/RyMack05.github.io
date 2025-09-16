@@ -1,5 +1,6 @@
 # RyMack05.github.io
 ## University Portfolio 2024-2028
+[Visit my website from git](https://RyMack05.github.io)
 
 ### Google Collab Projects
 **Data**
