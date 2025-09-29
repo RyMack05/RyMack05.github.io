@@ -1,4 +1,3 @@
-# RyMack05.github.io
 # Ryann Mack
 
 ## University Portfolio 2024-2028
